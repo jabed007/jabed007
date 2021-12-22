@@ -11,12 +11,20 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 ## 🙋‍♂️ About Me
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+
+🔭 &emsp;I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**<br/>
+
+🌱 &emsp;I’m currently learning **Data Structures and Algorithms**<br/>
+
 🤔 &emsp;I’m looking for people who can help me with Outstanding Project ideas and executions<br/>
-👯 &emsp;I’m looking to collaborate on **OpenSource Projects**<br/>
+
 👨‍💻 &emsp;All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**<br/>
+
 :e-mail: &emsp;How to reach me: jabed15578@gmail.com<br/>
-⚡ &emsp;Fun fact: I play games and go to the GYM very often
+
+⚡ &emsp;Fun fact: I play games and go to the GYM very often<br/>
 
 ## 🚀 Languages and Tools:
 
