@@ -24,16 +24,16 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 <br/><br/>
 <p align="center">
     <a href="https://github.com/m-jabed/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jabed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=m-jabed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jabed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=m-jabed&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br/>
 
 ## 📊 My Github Stats
 
-  <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Github Status" src="https://github-readme-stats.vercel.app/api?username=m-jabed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Github Status" src="https://github-readme-stats.vercel.app/api?username=m-jabed&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
   <br/>
-  <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-jabed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-jabed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
