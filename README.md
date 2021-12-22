@@ -11,9 +11,9 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 ## 🙋‍♂️ About Me
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🔭 &emsp;I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**<br/>
 🌱 &emsp;I’m currently learning **Data Structures and Algorithms**<br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 👨‍💻 &emsp;All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**<br/>
 :e-mail: &emsp;How to reach me: jabed15578@gmail.com<br/>
 ⚡ &emsp;Fun fact: I play games and go to the GYM very often<br/>
@@ -37,7 +37,6 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
 <br/>
 
 <a href="https://github.com/m-jabed/github-readme-activity-graph"><img alt="Md. Jabed Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=m-jabed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
