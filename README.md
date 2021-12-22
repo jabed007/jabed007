@@ -44,7 +44,6 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 
 <a href="https://github.com/m-jabed/github-readme-activity-graph"><img alt="Md. Jabed Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=m-jabed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
