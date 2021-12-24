@@ -42,7 +42,6 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 -->
 
 ## 📊 Github Status
-
 <a href="https://github.com/jabed007/github-readme-stats"><img alt="JABED's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/jabed007/github-readme-stats"><img alt="Jabed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
