@@ -42,21 +42,13 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 -->
 
 ## 📊 My Github Stats
-<!--
-  <a href="https://github.com/jabed007/github-readme-stats"><img alt="Md. Jabed Hossain's Github Status" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1A1B27" /></a>
-  <a href="https://github.com/jabed007/github-readme-stats"><img alt="Md. Jabed Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&langs_count=10&count_private=true&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1A1B27" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<a href="https://github.com/jabed007/github-readme-stats"><img alt="Md. Jabed Hossain's Github Status" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1A1B27" height="192px"/></a>
+<a href="https://github.com/jabed007/github-readme-stats"><img alt="Md. Jabed Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&langs_count=10&count_private=true&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1A1B27" height="192px"/></a>
 <br/>
--->
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-  <a href="https://github.com/jabed007/github-readme-stats"><img alt="Jabed's Github Stats" src="https://github-readme-stats.vercel.app/api?  username=jabed007&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/jabed007/github-readme-stats"><img alt="Jabed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&layout=compact" height="192px"/></a>
-<br/>
-
-<a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&bg_color=1A1B27&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
-
+<a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&bg_color=1A1B27&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/jabed007/github-profile-views-counter">
