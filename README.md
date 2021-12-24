@@ -32,7 +32,7 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 ## 📊 My Github Stats
 
   <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Github Status" src="https://github-readme-stats.vercel.app/api?username=m-jabed&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=1A1B27" /></a>
-  <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-jabed&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=false&bg_color=1A1B27" /></a>
+  <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-jabed&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=false&bg_color=1A1B27" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
