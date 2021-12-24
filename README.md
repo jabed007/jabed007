@@ -41,7 +41,7 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 <br/>
 -->
 
-## 📊 My Github Stats
+## 📊 Github Status
 
 <br/>
 <a href="https://github.com/jabed007/github-readme-stats"><img alt="JABED's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -51,7 +51,7 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 <br/>
 <br/>
 
-<a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&theme=monokai-metallian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!--
 <a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Jabed's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=jabed007&theme=monokai-metallian&hide_border=true" /></a>
 -->
