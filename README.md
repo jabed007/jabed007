@@ -51,8 +51,8 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 <br/>
 -->
 <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jabed's Github Stats" src="https://github-readme-stats.vercel.app/api?  username=jabed007&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jabed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&layout=compact" height="192px"/></a>
+  <a href="https://github.com/jabed007/github-readme-stats"><img alt="Jabed's Github Stats" src="https://github-readme-stats.vercel.app/api?  username=jabed007&show_icons=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/jabed007/github-readme-stats"><img alt="Jabed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&layout=compact" height="192px"/></a>
 <br/>
 
 <a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&bg_color=1A1B27&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
