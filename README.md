@@ -23,27 +23,27 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 <br/><br/>
 <p align="center">
-    <a href="https://github.com/m-jabed/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jabed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=m-jabed&theme=black-ice&hide_border=false&stroke=0000&background=1A1B27"/>
+    <a href="https://github.com/jabed121/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jabed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jabed121&theme=black-ice&hide_border=false&stroke=0000&background=1A1B27"/>
     </a>
 </p>
 <br/>
 
 ## 📊 My Github Stats
 
-  <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Github Status" src="https://github-readme-stats.vercel.app/api?username=m-jabed&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=1A1B27" /></a>
+  <a href="https://github.com/jabed121/github-readme-stats"><img alt="Md. Jabed Hossain's Github Status" src="https://github-readme-stats.vercel.app/api?username=jabed121&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=1A1B27" /></a>
   <br/>
-  <a href="https://github.com/m-jabed/github-readme-stats"><img alt="Md. Jabed Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-jabed&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=false&bg_color=1A1B27" /></a>
+  <a href="https://github.com/jabed121/github-readme-stats"><img alt="Md. Jabed Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed121&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=false&bg_color=1A1B27" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 
-<a href="https://github.com/m-jabed/github-readme-activity-graph"><img alt="Md. Jabed Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=m-jabed&bg_color=1A1B27&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+<a href="https://github.com/jabed121/github-readme-activity-graph"><img alt="Md. Jabed Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed121&bg_color=1A1B27&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=m-jabed">
+<a href="https://github.com/jabed121/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jabed121">
 </a>
-<a href="https://github.com/m-jabed?tab=followers"><img src="https://img.shields.io/github/followers/m-jabed?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/jabed121?tab=followers"><img src="https://img.shields.io/github/followers/jabed121?label=Followers&style=social" alt="GitHub Badge"></a>
