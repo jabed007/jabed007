@@ -33,12 +33,19 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 <br/>
 
 ## 📊 Github Status
-<a href="https://github.com/jabed007/github-readme-stats"><img alt="JABED's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--
+<a href="https://github.com/jabed007/github-readme-stats"><img alt="Jabed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/jabed007/github-readme-stats"><img alt="Jabed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
+-->
+<div align="center">
+  <a href="https://github.com/jabed007">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!--
