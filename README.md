@@ -47,7 +47,7 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
-<a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&theme=dracula&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!--
 <a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Jabed's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=jabed007&theme=monokai-metallian&hide_border=true" /></a>
 -->
