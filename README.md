@@ -41,7 +41,7 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 <br/>
 <br/>
 -->
-<div align="left">
+<div align="center">
   <a href="https://github.com/jabed007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
@@ -51,6 +51,9 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 <!--
 <a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Jabed's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=jabed007&theme=monokai-metallian&hide_border=true" /></a>
 -->
+<div>
+  ![Snake animation](https://github.com/jabed007/jabed007/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ## ❤ Views and Followers
 <a href="https://github.com/jabed007/github-profile-views-counter">
