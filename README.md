@@ -52,7 +52,7 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 <a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Jabed's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=jabed007&theme=monokai-metallian&hide_border=true" /></a>
 -->
 <div>
-  ![Snake animation](https://github.com/jabed007/jabed007/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jabed007/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## ❤ Views and Followers
