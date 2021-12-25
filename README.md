@@ -1,5 +1,4 @@
-<!--![Github Banner](assets/github-banner.png)-->
-![Github Banner](https://miro.medium.com/max/1400/1*9z3vKvVA9TCqv5ODedaARA.png)
+![Github Banner](assets/github-banner.png)
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
 I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Dhaka, Bangladesh. I Spend most of time coding outstanding projects or reading books.
