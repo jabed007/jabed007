@@ -46,7 +46,7 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabed007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
-
+<br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/><br/>
   
