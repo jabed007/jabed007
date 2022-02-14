@@ -47,10 +47,12 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabed007&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 <br/>
+<!--
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/><br/>
   
 <a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Md. Jabed Hossan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jabed007&theme=dracula&bg_color=282A36&color=FE6E96&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+-->
 <!--
 <a href="https://github.com/jabed007/github-readme-activity-graph"><img alt="Jabed's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=jabed007&theme=monokai-metallian&hide_border=true" /></a>
 -->
