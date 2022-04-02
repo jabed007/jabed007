@@ -8,7 +8,7 @@ I'm Md. Jabed Hossain, a Front-End Web Application Developer from <img src="asse
 
 ## 🙋‍♂️ About Me
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:hearts: &emsp;I enjoy programming and problem solving <br/>
 🔭 &emsp;I’m currently working on **[Omnifood Project](https://omnifood.com)**<br/>
 🌱 &emsp;I’m currently learning **Data Structures and Algorithms**<br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
