@@ -1,8 +1,7 @@
 <!--![Github Banner](assets/Boy.svg)-->
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hello there<img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Dhaka, Bangladesh. I Spend most of time coding outstanding projects or reading books.
-
+I'm Md. Jabed Hossain, a Frontend Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Dhaka, Bangladesh.
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdjabed.mdjabed.334/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabed007/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MDJABEDofficial) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabed15578@gmail.com)
@@ -10,12 +9,12 @@ I'm Md. Jabed Hossain, a Full Stack Web Application Developer from <img src="ass
 ## 🙋‍♂️ About Me
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-🔭 &emsp;I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**<br/>
+🔭 &emsp;I’m currently working on **[Omnifood Project](https://omnifood.com)**<br/>
 🌱 &emsp;I’m currently learning **Data Structures and Algorithms**<br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-👨‍💻 &emsp;All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**<br/>
+👨‍💻 &emsp;All of my projects are available at **[My Portfolio](https://github.com/jabed007)**<br/>
 :e-mail: &emsp;How to reach me: jabed15578@gmail.com<br/>
-⚡ &emsp;Fun fact: I play games and go to the GYM very often<br/>
+<!-- ⚡ &emsp;Fun fact: I play games and go to the GYM very often<br/> -->
 
 ## 🚀 Languages and Tools:
 
