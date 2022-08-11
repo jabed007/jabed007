@@ -1,5 +1,5 @@
 <!--![Github Banner](assets/Boy.svg)-->
-## Hello there<img src="assets/hello.gif" width="28px" alt="hi">
+## Hello there<img src="assets/hello.gif" width="50px" alt="hi">
 
 I'm Md. Jabed Hossain, a Front-End Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Dhaka, Bangladesh.<br><br>
 :coffee:&emsp;Connect with me!
